@@ -1,4 +1,4 @@
-name:johnders
+ame: kosteri
 on: [push]
 jobs:
   build:
